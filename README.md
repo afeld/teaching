@@ -21,3 +21,28 @@ A collection of materials/resources for teaching technology.
 ## See also
 
 * [OpenHatch's Open Source Comes to Campus](https://openhatch.org/wiki/Open_Source_Comes_to_Campus)
+* tools (TODO: clean this up)
+    * projects
+        * [Learning management systems (LMSes)](http://en.wikipedia.org/wiki/Learning_management_system)
+            * [Canvas](https://github.com/instructure/canvas-lms)
+            * [Lore](http://lore.com/)
+        * class tools
+            * https://github.com/shiffman/randomizer
+            * [Mouseposé](https://itunes.apple.com/app/mousepose/id405904955?mt=12)
+            * [Caffeine](http://lightheadsw.com/caffeine/)
+            * [Official tools from the GitHub Training team](https://github.com/githubtraining/training-utils/)
+        * [iPython](http://ipython.org)
+        * [Scratch](http://scratch.mit.edu/)
+        * interactive teaching
+            * http://nodeschool.io/
+            * https://github.com/jlord/git-it
+            * http://exercism.io/
+        * JavaScript
+            * http://mistakes.io
+            * http://jsconsole.com/
+            * http://jsfiddle.net/
+                * live collaboration
+    * lists
+        * http://oss-watch.ac.uk/resources/ossoptionseducation
+        * https://delicious.com/nengard/education,opensource
+        * https://github.com/afeld/github_non_coding/blob/master/categories/writing.md#tools
