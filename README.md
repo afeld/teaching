@@ -9,6 +9,14 @@ A collection of materials/resources for teaching technology.
 * [Building for Learning](https://github.com/bfl-itp/syllabus) – a graduate course I taught at [NYU ITP](http://itp.nyu.edu/) about building interactive educational tools, covering front-end web development and learning design
 * [NYTech](https://github.com/cuny-nytech/syllabus/) – basically "practical skills for CS students"
 
+## My workshops
+
+### Git/GitHub
+
+* [Git+GitHub](https://workflowy.com/s/pwYohsgqY7) (2 hours)
+* [GitHub Pages](http://afeld.github.io/pages-workshop/) (45 mins)
+* [Open source](http://hackerhours.org/oss-workshop.html)
+
 ## Other things I work(ed) on
 
 * [The GitHub Education guide](https://education.github.com/guide) – helping teachers use GitHub in their classrooms
