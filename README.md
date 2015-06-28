@@ -14,6 +14,7 @@ A collection of materials/resources for teaching technology.
 ### Git/GitHub
 
 * [Git+GitHub](https://workflowy.com/s/pwYohsgqY7) (2 hours)
+* [Git, Graphically](https://speakerdeck.com/aidanfeldman/git-graphically)
 * [GitHub Pages](http://afeld.github.io/pages-workshop/) (45 mins)
 * [Open source](http://hackerhours.org/oss-workshop.html)
 
