@@ -40,6 +40,7 @@ A collection of materials/resources for teaching technology.
             * [Mouseposé](https://itunes.apple.com/app/mousepose/id405904955?mt=12)
             * [Caffeine](http://lightheadsw.com/caffeine/)
             * [Official tools from the GitHub Training team](https://github.com/githubtraining/training-utils/)
+            * [Classroom for GitHub](https://classroom.github.com/)
         * [iPython](http://ipython.org)
         * [Scratch](http://scratch.mit.edu/)
         * interactive teaching
