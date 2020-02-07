@@ -8,14 +8,18 @@ A collection of materials/resources for teaching technology.
     * See the [meta](https://github.com/advanced-js/syllabus/blob/master/meta.md) page for information for teachers.
 * [Building for Learning](https://github.com/bfl-itp/syllabus) – a graduate course I taught at [NYU ITP](http://itp.nyu.edu/) about building interactive educational tools, covering front-end web development and learning design
 * [NYTech](https://github.com/cuny-nytech/syllabus/) – basically "practical skills for CS students"
+* [Startup Systems](https://docs.google.com/document/d/1-hk6GzhV1yHU1T0E7uqcdNTtvv3fuq1_WECQOWOT2zw/edit) – "Understand all the technical pieces that go into a building a larger-scale web application, as well as professional software development practices."
 
 ## My workshops
+
+* [Continuous Delivery](https://github.com/afeld/delivery#readme) - hands-on practice with some fundamental DevOps tools and principles (3 hours)
+* [Digital Security and Privacy for Normal People](https://afeld.github.io/personal-security/) – workshop focused on quick-win security and privacy concepts and quick-win practices for individuals
 
 ### Git/GitHub
 
 * [Git+GitHub](https://workflowy.com/s/pwYohsgqY7) (2 hours)
 * [Git, Graphically](https://speakerdeck.com/aidanfeldman/git-graphically)
-* [GitHub Pages](http://afeld.github.io/pages-workshop/) (45 mins)
+* [GitHub Pages](http://afeld.github.io/pages-workshop/) - deploying a free static web site, learning some Git+GitHub in the process (45 mins)
 * [Open source](http://hackerhours.org/oss-workshop.html)
 
 ## Other things I work(ed) on
