@@ -9,6 +9,7 @@ A collection of materials/resources for teaching technology, with contact hours 
 * [Building for Learning](https://github.com/bfl-itp/syllabus) – a graduate course I taught at [NYU ITP](http://itp.nyu.edu/) about building interactive educational tools, covering front-end web development and learning design
 * [Civic Technology](https://docs.google.com/document/d/1hCrcBPHcqWYEh14N-HAEo95LkqjYGgLjJY3xfMqU1N0/edit) - sketch for a course around what goes into building technology in/for government
 * [NYTech](https://github.com/cuny-nytech/syllabus/) – basically "practical skills for CS students"
+* [Python Coding for Public Policy](https://github.com/afeld/python-public-policy/blob/main/syllabus.md#readme) - alternate title: "How to Use a Bit of Code to Do Things That Would Be Really Hard in Spreadsheets"
 * [Startup Systems](https://docs.google.com/document/d/1-hk6GzhV1yHU1T0E7uqcdNTtvv3fuq1_WECQOWOT2zw/edit) – "Understand all the technical pieces that go into a building a larger-scale web application, as well as professional software development practices."
 
 ## My workshops
