@@ -15,7 +15,9 @@ A collection of materials/resources for teaching technology, with contact hours 
 ## My workshops
 
 * [Continuous Delivery](https://github.com/afeld/delivery#readme) - hands-on practice with some fundamental DevOps tools and principles (3 hours)
+* [Data Cleaning Techniques](https://www.icloud.com/keynote/0ceRF6Dirs__xvOV2mrP0NYBw#Data_Cleaning_Techniques) - Exploring common data issues to look for, tools, and techniques for cleaning it up
 * [Digital Security and Privacy for Normal People](https://afeld.github.io/personal-security/) – workshop focused on quick-win security and privacy concepts and quick-win practices for individuals
+* [pandas Crash Course](https://colab.research.google.com/github/afeld/python-public-policy/blob/main/extras/pandas_crash_course.ipynb) - a condensed version of the Python Coding for Public Policy class
 
 ### Git/GitHub
 
