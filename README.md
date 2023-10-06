@@ -28,7 +28,7 @@ A collection of materials/resources for teaching technology, with contact hours 
 
 ## Other things I work(ed) on
 
-* [The GitHub Education guide](https://education.github.com/guide) – helping teachers use GitHub in their classrooms
+* [The GitHub Education guide](https://web.archive.org/web/20141008064241/https://education.github.com/guide/) – helping teachers use GitHub in their classrooms
     * [teachers_pet](https://github.com/education/teachers_pet) – the associated Ruby gem for managing large numbers of repositories
 * [Hacker Hours](http://hackerhours.org/) – office hours for people learning to code that I organize. In particular, see:
     * [The DIY Guide](http://hackerhours.org/diy-guide.html) – a guide for people wanting to organize community-oriented office hours or meetups
